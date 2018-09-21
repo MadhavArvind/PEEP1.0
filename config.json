@@ -10,7 +10,7 @@
     "wsservice" : "moodle_mobile_app",
     "wsextservice" : "local_mobile",
     "gcmpn": "694767596569",
-    "customurlscheme": "moodlemobile",
+    "customurlscheme": "slategreen",
     "siteurl": "http://35.200.172.255",
     "multisitesdisplay": "select",
     "skipssoconfirmation": "false",
