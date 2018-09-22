@@ -12,7 +12,7 @@
         SLATE PEEP
     </description>
 
-    <author href="http://moodle.com" email="mobile@moodle.com">
+    <author href="http://theopenschool.in" email="info@theopenschool.in">
         Moodle Mobile team, Madhav A D
     </author>
 
@@ -58,7 +58,7 @@
     <preference name="KeyboardDisplayRequiresUserAction" value="false" />
     <preference name="AllowInlineMediaPlayback" value="true" />
     <preference name="SplashMaintainAspectRatio" value="true" />
-    <preference name="SplashScreenDelay" value="15000" />
+    <preference name="SplashScreenDelay" value="5000" />
     <preference name="SplashShowOnlyFirstTime" value="false" />
 
     <feature name="StatusBar">
